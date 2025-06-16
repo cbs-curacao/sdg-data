@@ -39,6 +39,82 @@
       "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
+      "path": "7-1-1/data.csv",
+      "name": "7-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population with access to electricity"
+    },
+    {
+      "path": "8-5-2/data.csv",
+      "name": "8-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                "65+",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Unemployment rate, by sex, age and persons with disabilities"
+    },
+    {
       "path": "12-2-1/data.csv",
       "name": "12-2-1",
       "profile": "tabular-data-resource",
@@ -445,30 +521,6 @@
         ]
       },
       "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
-    },
-    {
-      "path": "8-5-2/data.csv",
-      "name": "8-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Unemployment rate, by sex, age and persons with disabilities"
     },
     {
       "path": "2-1-2/data.csv",
@@ -2269,30 +2321,6 @@
         ]
       },
       "title": "Under‑5 mortality rate"
-    },
-    {
-      "path": "7-1-1/data.csv",
-      "name": "7-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population with access to electricity"
     },
     {
       "path": "17-4-1/data.csv",
