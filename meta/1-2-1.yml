@@ -4,5 +4,5 @@ computation_units: Percentage
 source_active_1: true
 source_organisation_1: Central Bureau of Statistics (CBS) Curaçao
 source_url_1: "https://www.cbs.cw/poverty"
-reporting_status: in progress
+reporting_status: complete
 graph_type: bar
