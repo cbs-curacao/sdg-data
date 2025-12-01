@@ -249,8 +249,8 @@ United Nations Population Fund (UNFPA)",,,,,line
 #5-a-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #5-b-1,notstarted,International Telecommunication Union (ITU),,,,,line
 #5-c-1,notstarted,United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) in collaboration with Organisation for Economic Co-operation and Development (OECD) and United Nations Development Programme (UNDP),,,,,line
-#6-1-1,notstarted,"World Health Organization (WHO)
-United Nations Children&apos;s Fund (UNICEF)",,,,,line
+#6-1-1,complete,"World Health Organization (WHO)
+United Nations Children&apos;s Fund (UNICEF)",,,,Percentage,bar
 #6-2-1,notstarted,"World Health Organization (WHO)
 United Nations Children&apos;s Fund (UNICEF)",,,,,line
 #6-3-1,notstarted,"United Nations Human Settlements Programme (UN-Habitat)
@@ -280,7 +280,7 @@ United Nations Statistics Division (UNSD)",,,,,line
 #7-b-1,notstarted,International Renewable Energy Agency (IRENA),,,,,line
 #8-1-1,complete,United Nations Statistics Division (UNSD),,,,Percentage,bar
 #8-10-1,notstarted,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,,,line
-#8-10-2,notstarted,World Bank ,,,,,line
+#8-10-2,complete,World Bank ,,,,Percentage,bar
 #8-2-1,complete,International Labour Organization (ILO),,,,Percentage,bar
 #8-3-1,notstarted,International Labour Organization (ILO),,,,,line
 #8-4-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
