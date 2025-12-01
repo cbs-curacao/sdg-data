@@ -3,6 +3,28 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "8-1-1/data.csv",
+      "name": "8-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Annual growth rate of real GDP per capita"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -78,6 +100,28 @@
         ]
       },
       "title": "Proportion of population with access to electricity"
+    },
+    {
+      "path": "8-2-1/data.csv",
+      "name": "8-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Annual growth rate of real GDP per employed person"
     },
     {
       "path": "8-5-2/data.csv",
@@ -1204,28 +1248,6 @@
         ]
       },
       "title": "Additional financial resources mobilized for developing countries from multiple sources"
-    },
-    {
-      "path": "8-1-1/data.csv",
-      "name": "8-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Annual growth rate of real GDP per capita"
     },
     {
       "path": "17-17-1/data.csv",
@@ -3272,28 +3294,6 @@
         ]
       },
       "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
-    },
-    {
-      "path": "8-2-1/data.csv",
-      "name": "8-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Annual growth rate of real GDP per employed person"
     },
     {
       "path": "8-4-2/data.csv",

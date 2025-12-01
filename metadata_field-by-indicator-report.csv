@@ -269,7 +269,7 @@ Organisation for Economic Co-operation and Development (OECD)",,,,,line
 #6-b-1,notstarted,"World Health Organization (WHO)
 United Nations Environment Programme (UNEP)
 Organisation for Economic Co-operation and Development (OECD)",,,,,line
-#7-1-1,complete,World Bank Group,,,,Percentage,line
+#7-1-1,complete,World Bank Group,,,,Percentage,bar
 #7-1-2,notstarted,World Health Organization (WHO),,,,,line
 #7-2-1,notstarted,"International Energy Agency (IEA) 
 United Nations Statistics Division (UNSD) 
@@ -278,10 +278,10 @@ International Renewable Energy Agency (IRENA)",,,,,line
 United Nations Statistics Division (UNSD)",,,,,line
 #7-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),,,,,line
 #7-b-1,notstarted,International Renewable Energy Agency (IRENA),,,,,line
-#8-1-1,notstarted,United Nations Statistics Division (UNSD),,,,,line
+#8-1-1,complete,United Nations Statistics Division (UNSD),,,,Percentage,bar
 #8-10-1,notstarted,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,,,line
 #8-10-2,notstarted,World Bank ,,,,,line
-#8-2-1,notstarted,International Labour Organization (ILO),,,,,line
+#8-2-1,complete,International Labour Organization (ILO),,,,Percentage,bar
 #8-3-1,notstarted,International Labour Organization (ILO),,,,,line
 #8-4-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #8-4-2,notstarted,United Nations Environment Programme (UNEP),,,,,line
