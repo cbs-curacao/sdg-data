@@ -1,8 +1,8 @@
-indicator_name: Proportion of population with access to electricity
-indicator_number: 7.1.1
+indicator_name: Annual growth rate of real GDP per capita
+indicator_number: 8.1.1
 computation_units: Percentage
 source_active_1: true
 source_organisation_1: Central Bureau of Statistics (CBS) Curaçao
-source_url_1: "https://www.cbs.cw"
+source_url_1: "https://www.cbs.cw/economy-0"
 reporting_status: complete
 graph_type: bar
