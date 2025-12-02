@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) national parliaments",
+                "b) local governments",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

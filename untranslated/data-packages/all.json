@@ -182,6 +182,17 @@
             "type": "integer"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) national parliaments",
+                "b) local governments",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

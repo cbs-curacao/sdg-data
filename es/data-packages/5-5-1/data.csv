@@ -1,7 +1,15 @@
-Year,Value
-2012,23.8
-2016,47.6
-2017,33.3
-2021,28.6
-2024,33.3
-2025,19.0
+Year,Category,Value
+2012,a) national parliaments,23.8
+2016,a) national parliaments,47.6
+2017,a) national parliaments,33.3
+2021,a) national parliaments,28.6
+2024,a) national parliaments,33.3
+2025,a) national parliaments,19.0
+2012,b) local governments,11.1
+2013,b) local governments,22.2
+2015,b) local governments,33.3
+2016,b) local governments,33.3
+2017,b) local governments,33.3
+2021,b) local governments,22.2
+2024,b) local governments,22.2
+2025,b) local governments,11.1
