@@ -5,4 +5,4 @@ source_active_1: true
 source_organisation_1: Central Bureau of Statistics (CBS) Curaçao
 source_url_1: "https://www.cbs.cw/"
 reporting_status: complete
-other_info: Deaths per 100,000 population based on CBS website data counted from the 1st of January every year.
+other_info: "Deaths per 100,000 population based on CBS website data counted from the 1st of January every year."
