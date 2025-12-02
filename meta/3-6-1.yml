@@ -1,8 +1,8 @@
 indicator_name: Death rate due to road traffic injuries
 indicator_number: 3.6.1
 computation_units: Deaths per 100,000 population
-computation_calculations: Deaths per 100,000 population based on CBS website data counted from the 1st of January every year.
 source_active_1: true
 source_organisation_1: Central Bureau of Statistics (CBS) Curaçao
 source_url_1: "https://www.cbs.cw/"
 reporting_status: complete
+other_info: Deaths per 100,000 population based on CBS website data counted from the 1st of January every year.
