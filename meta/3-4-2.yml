@@ -1,0 +1,10 @@
+indicator_name: Suicide mortality rate
+indicator_number: 3.4.2
+computation_units: Percentage
+source_active_1: true
+source_organisation_1: Volksgezondheid Instituut Curaçao (VIC)
+source_url_1: "https://vic.cw/ned/home"
+source_active_2: true
+source_organisation_2: GGz Stichting Geestelijke Gezondheidszorg Curaçao (GGz Curaçao)
+source_url_2: "https://www.ggz.cw/"
+reporting_status: complete
