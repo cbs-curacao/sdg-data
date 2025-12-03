@@ -1,0 +1,7 @@
+indicator_name: Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)
+indicator_number: 16.6.1
+computation_units: Percentage
+source_active_1: true
+source_organisation_1: Algemene Rekenkamer Curaçao (ARC)
+source_url_1: "https://algemenerekenkamercuracao.cw/"
+reporting_status: complete
