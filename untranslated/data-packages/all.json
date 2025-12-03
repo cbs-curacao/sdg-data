@@ -47,6 +47,28 @@
       "title": "Annual growth rate of real GDP per capita"
     },
     {
+      "path": "16-6-1/data.csv",
+      "name": "16-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -1875,28 +1897,6 @@
         ]
       },
       "title": "Proportion of fish stocks within biologically sustainable levels"
-    },
-    {
-      "path": "16-6-1/data.csv",
-      "name": "16-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
     },
     {
       "path": "8-a-1/data.csv",
@@ -5483,6 +5483,28 @@
         ]
       },
       "title": "Youth/adult literacy rate"
+    },
+    {
+      "path": "16-6-6/data.csv",
+      "name": "16-6-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
     },
     {
       "path": "2-2-4/data.csv",
