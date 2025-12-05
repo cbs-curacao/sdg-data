@@ -185,7 +185,7 @@ World Health Organization (WHO)",,,,,line
 #3-1-2,notstarted,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),,,,,line
 #3-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,Percentage,line
 #3-2-2,complete,United Nations Children&apos;s Fund (UNICEF),,,,Percentage,line
-#3-3-1,notstarted,The Joint United Nations Programme on HIV/AIDS (UNAIDS),,,,,line
+#3-3-1,complete,The Joint United Nations Programme on HIV/AIDS (UNAIDS),,,,"HIV infections per 1,000 uninfected population",line
 #3-3-2,notstarted,World Health Organization (WHO),,,,,line
 #3-3-3,notstarted,Global Malaria Programme at World Health Organization (WHO),,,,,line
 #3-3-4,notstarted,World Health Organization ,,,,,line
@@ -198,8 +198,8 @@ United Nations Office on Drugs and Crime (UNODC) ",,,,,line
 #3-6-1,complete,World Health Organization (WHO) ,,,,"Deaths per 100,000 population",line
 #3-7-1,notstarted,"Population Division, Department of Economic and Social Affairs (DESA)
 United Nations Population Fund (UNFPA)",,,,,line
-#3-7-2,notstarted,"Population Division, Department of Economic and Social Affairs (DESA) 
-United Nations Population Fund (UNFPA)",,,,,line
+#3-7-2,complete,"Population Division, Department of Economic and Social Affairs (DESA) 
+United Nations Population Fund (UNFPA)",,,,"Adolescent birth rate per 1,000 women",line
 #3-8-1,notstarted,World Health Organization (WHO) ,,,,,line
 #3-8-2,notstarted,World Health Organization (WHO) and the World Bank,,,,,line
 #3-9-1,notstarted,World Health Organization (WHO),,,,,line
