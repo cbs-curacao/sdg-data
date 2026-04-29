@@ -1,5 +1,6 @@
 Value,Number of indicators
 "Adolescent birth rate per 1,000 women",1
-"Deaths per 100,000 population",1
+"Deaths per 1,000 live births",2
+"Deaths per 100,000 population",2
 "HIV infections per 1,000 uninfected population",1
-Percentage,15
+Percentage,12
