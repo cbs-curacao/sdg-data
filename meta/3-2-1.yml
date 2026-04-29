@@ -1,6 +1,6 @@
 indicator_name: Under‐5 mortality rate
 indicator_number: 3.2.1
-computation_units: Percentage
+computation_units: Deaths per 1,000 live births
 source_active_1: true
 source_organisation_1: Central Bureau of Statistics (CBS) Curaçao
 source_url_1: "https://www.cbs.cw/"
