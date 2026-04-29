@@ -1,6 +1,6 @@
-indicator_name: Suicide mortality rate
-indicator_number: 3.4.2
-computation_units: Deaths per 100,000 population
+indicator_name: Tuberculosis incidence per 1,000 population
+indicator_number: 3.3.2
+computation_units: Per 1,000 population
 source_active_1: true
 source_organisation_1: Volksgezondheid Instituut Curaçao (VIC)
 source_url_1: "https://vic.cw/ned/home"

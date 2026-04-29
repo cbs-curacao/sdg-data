@@ -1,6 +1,6 @@
-indicator_name: Suicide mortality rate
-indicator_number: 3.4.2
-computation_units: Deaths per 100,000 population
+indicator_name: Proportion of births attended by skilled health personnel
+indicator_number: 3.1.2
+computation_units: Percentage
 source_active_1: true
 source_organisation_1: Volksgezondheid Instituut Curaçao (VIC)
 source_url_1: "https://vic.cw/ned/home"

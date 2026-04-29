@@ -1,0 +1,7 @@
+indicator_name: Age-standardized prevalence of current tobacco use among persons aged 18 years and older
+indicator_number: 3.a.1
+computation_units: Percentage
+source_active_1: true
+source_organisation_1: Volksgezondheid Instituut Curaçao (VIC)
+source_url_1: "https://vic.cw/ned/home"
+reporting_status: complete

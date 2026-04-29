@@ -1,0 +1,8 @@
+indicator_name: Percentage of adults who are heavy drinkers (drinks 6 or more (men) or 4 or more (women) alcoholic consumptions during one occasion per week).
+indicator_number: 3.5.2
+computation_units: Percentage
+source_active_1: true
+source_organisation_1: Volksgezondheid Instituut Curaçao (VIC)
+source_url_1: "https://vic.cw/ned/home"
+reporting_status: complete
+graph_type: bar
