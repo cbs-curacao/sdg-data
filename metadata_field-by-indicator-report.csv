@@ -11,7 +11,7 @@ WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (
 #1-5-3,notstarted,United Nations Office for Disaster Reduction (UNDRR),,,,,line
 #1-5-4,notstarted,United Nations Office for Disaster Reduction (UNDRR),,,,,line
 #1-a-1,notstarted,OECD,,,,,line
-#1-a-2,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
+#1-a-2,complete,UNESCO Institute for Statistics (UNESCO-UIS),,,,Percentage,line
 #1-b-1,notstarted,"United Nations Children&#x2019;s Fund (UNICEF), Save the Children",,,,,line
 #10-1-1,notstarted,World Bank (WB),,,,,line
 #10-2-1,complete,World Bank (WB),,,,Percentage,bar
@@ -182,12 +182,12 @@ World Health Organization (WHO)",,,,,line
 #2-a-2,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #2-b-1,notstarted,The World Trade Organization (WTO),,,,,line
 #2-c-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#3-1-1,notstarted,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,,,,,line
-#3-1-2,notstarted,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),,,,,line
+#3-1-1,complete,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,,,,Percentage,line
+#3-1-2,complete,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),,,,Percentage,line
 #3-2-1,complete,United Nations Children&#x2019;s Fund (UNICEF),,,,"Deaths per 1,000 live births",line
 #3-2-2,complete,United Nations Children&#x2019;s Fund (UNICEF),,,,"Deaths per 1,000 live births",line
 #3-3-1,complete,The Joint United Nations Programme on HIV/AIDS (UNAIDS),,,,"HIV infections per 1,000 uninfected population",line
-#3-3-2,notstarted,World Health Organization (WHO),,,,,line
+#3-3-2,complete,World Health Organization (WHO),,,,"Per 1,000 population",line
 #3-3-3,notstarted,Malaria &amp; Neglected Tropical Diseases Department (MNT) at World Health Organization (WHO),,,,,line
 #3-3-4,notstarted,World Health Organization ,,,,,line
 #3-3-5,notstarted,World Health Organization (WHO),,,,,line
@@ -195,7 +195,7 @@ World Health Organization (WHO)",,,,,line
 #3-4-2,complete,World Health Organization (WHO) ,,,,"Deaths per 100,000 population",line
 #3-5-1,notstarted,"World Health Organization (WHO) 
 United Nations Office on Drugs and Crime (UNODC) ",,,,,line
-#3-5-2,notstarted,World Health Organization (WHO) ,,,,,line
+#3-5-2,complete,World Health Organization (WHO) ,,,,Percentage,bar
 #3-6-1,complete,World Health Organization (WHO) ,,,,"Deaths per 100,000 population",line
 #3-7-1,notstarted,"Population Division, Department of Economic and Social Affairs (DESA)
 United Nations Population Fund (UNFPA)",,,,,line
@@ -206,7 +206,7 @@ United Nations Population Fund (UNFPA)",,,,"Adolescent birth rate per 1,000 wome
 #3-9-1,notstarted,World Health Organization (WHO),,,,,line
 #3-9-2,notstarted,World Health Organization (WHO),,,,,line
 #3-9-3,notstarted,World Health Organization (WHO),,,,,line
-#3-a-1,notstarted,World Health Organization; Secretariat of the WHO Framework Convention on Tobacco Control (co-custodians) ,,,,,line
+#3-a-1,complete,World Health Organization; Secretariat of the WHO Framework Convention on Tobacco Control (co-custodians) ,,,,Percentage,line
 #3-b-1,notstarted,"World Health Organization (WHO), United Nations Children&#x2019;s Fund (UNICEF) ",,,,,line
 #3-b-2,notstarted,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
 #3-b-3,notstarted,World Health Organization (WHO),,,,,line
