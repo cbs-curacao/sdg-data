@@ -58,7 +58,7 @@ jobs:
         sleep 240
     - name: Rebuild site
       run: |
-        curl -L \
+        curl --fail-with-body -L \
           -X POST \
           -H "Accept: application/vnd.github+json" \
           -H "Authorization: Bearer ${{ secrets.token }}" \
