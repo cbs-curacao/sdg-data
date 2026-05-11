@@ -1,4 +1,4 @@
-indicator_name: Annual growth rate of nominal GDP per employed person 
+indicator_name: Annual growth rate of real GDP per employed person 
 indicator_number: 8.2.1
 computation_units: Percentage
 source_active_1: true
