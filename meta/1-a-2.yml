@@ -5,3 +5,11 @@ source_active_1: true
 source_organisation_1: Central Bureau of Statistics (CBS) Curaçao
 source_url_1: "https://www.cbs.cw"
 reporting_status: complete
+tags:
+  - Needs update
+data_notice_class: warning
+data_notice_heading: Data update needed
+data_notice_text: Latest available data are from 2018. The indicator is reported online, but should be updated when new source data become available.
+META_LAST_UPDATE: "2026-05-29"
+REL_CAL_POLICY: "No release date has been confirmed for the next update."
+FREQ_COLL: "Updated when a new census or survey round becomes available."
