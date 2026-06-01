@@ -993,4 +993,9 @@ prose:
             label: UN designated tier
             translation_key: metadata_fields.un_designated_tier
             scope: global
+      - name: POLICIES
+        field:
+          element: textarea
+          label: Policies
+          scope: policies
   ignore: ['/scripts', '/.github']

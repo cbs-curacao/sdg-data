@@ -6,3 +6,22 @@ source_organisation_1: Central Bureau of Statistics (CBS) Curaçao
 source_url_1: "https://www.cbs.cw/"
 reporting_status: complete
 graph_type: bar
+POLICIES: |
+  This indicator is relevant to national policy on financial inclusion, access to banking services, digital payments, and inclusive economic participation.
+
+  Relevant policy areas include:
+
+  - access to formal financial services;
+  - financial inclusion for households and individuals;
+  - digital transformation of payment systems;
+  - access to banking services for vulnerable groups.
+
+  Related institutions may include the [Central Bank of Curaçao and Sint Maarten](https://www.centralbank.cw/) and national ministries responsible for economic development and social policy.
+publications:
+  - title: Komishon Nashonal di SDG
+    link: "https://gobiernu.cw/notisia_di_ministernan/prome-minister-pisas-ta-delibera-ku-komishon-nashonal-di-sdg-riba-desaroyo-sostenibel-di-korsou/"
+    description: Policy document relevant to this indicator.
+    date: 2026-03-11
+  - title: Financial Policy and Budget Management Sector
+    link: "https://minfin.cw/en/financial-policy-budget-management-sector/"
+    description: Strategy related to access to financial services.
