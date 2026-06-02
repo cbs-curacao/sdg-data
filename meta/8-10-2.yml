@@ -17,11 +17,41 @@ POLICIES: |
   - access to banking services for vulnerable groups.
 
   Related institutions may include the [Central Bank of Curaçao and Sint Maarten](https://www.centralbank.cw/) and national ministries responsible for economic development and social policy.
+# --- Additions for the demo ---
+
+# Brief context that displays above the chart on the indicator page.
+page_content: >
+  This indicator measures the proportion of residents aged 15 and older who
+  hold an account at a regulated financial institution or who have personally
+  used a mobile-money-service provider in the previous twelve months.
+  For the national policy and legislative context, see the
+  [Policies and references page for Goal 8](/policies/goal-8/).
+
+# Short note below the chart, linking to the methodology PDF.
+data_footnote: >
+  For the calculation method, sample frame, and known limitations, see the
+  [national methodology note](/assets/pdfs/policies/goal-8/8-10-2-methodology-note.pdf).
+
+# Publications block — renders as a "Publications" tab on the indicator page
+# provided _config.yml has a metadata_tabs entry with `scope: publications`.
 publications:
-  - title: Komishon Nashonal di SDG
-    link: "https://gobiernu.cw/notisia_di_ministernan/prome-minister-pisas-ta-delibera-ku-komishon-nashonal-di-sdg-riba-desaroyo-sostenibel-di-korsou/"
-    description: Policy document relevant to this indicator.
-    date: 2026-03-11
-  - title: Financial Policy and Budget Management Sector
-    link: "https://minfin.cw/en/financial-policy-budget-management-sector/"
-    description: Strategy related to access to financial services.
+  - title: National Strategy for Financial Inclusion in Curaçao, 2024–2028
+    link: "/assets/pdfs/policies/goal-8/cbcs-financial-inclusion-strategy-2024.pdf"
+    description: >
+      Joint document of the Ministry of Finance and the Central Bank of
+      Curaçao and Sint Maarten, setting out the four-pillar strategy for
+      financial inclusion (access, usage, quality, digital readiness).
+    date: 2024-03-15
+  - title: Landsverordening Toezicht Bank- en Kredietwezen — plain-language summary
+    link: "/assets/pdfs/policies/goal-8/landsverordening-banking-supervision-summary.pdf"
+    description: >
+      English-language summary of the national ordinance governing the
+      supervision of credit institutions, prepared for SDG-reporting
+      purposes by the Central Bureau of Statistics.
+    date: 2024-01-10
+  - title: Indicator 8.10.2 — National methodology note
+    link: "/assets/pdfs/policies/goal-8/8-10-2-methodology-note.pdf"
+    description: >
+      Describes how the indicator is calculated for Curaçao, the data
+      source used, the weighting procedure, and known limitations.
+    date: 2024-04-01
