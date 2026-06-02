@@ -5,4 +5,7 @@ source_active_1: true
 source_organisation_1: Central Bureau of Statistics (CBS) Curaçao
 source_url_1: "https://www.cbs.cw/"
 reporting_status: complete
-
+tags:
+  - Needs update
+data_notice_class: warning
+data_notice_heading: Data update needed

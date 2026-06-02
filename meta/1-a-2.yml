@@ -9,9 +9,6 @@ tags:
   - Needs update
 data_notice_class: warning
 data_notice_heading: Data update needed
-data_notice_text: Latest available data are from 2018. The indicator is reported online, but should be updated when new source data become available.
-REL_CAL_POLICY: "No release date has been confirmed for the next update."
-FREQ_COLL: "Updated when a new census or survey round becomes available."
 publications:
   - title: Komishon Nashonal di SDG
     link: "https://gobiernu.cw/notisia_di_ministernan/prome-minister-pisas-ta-delibera-ku-komishon-nashonal-di-sdg-riba-desaroyo-sostenibel-di-korsou/"
