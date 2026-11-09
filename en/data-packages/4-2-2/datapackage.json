@@ -20,26 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
-                "1",
-                "2",
-                "3",
+                "0.0",
+                "1.0",
+                "2.0",
+                "3.0",
                 ""
               ]
             },
             "title": "Age"
           },
           {
-            "name": "Sex",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Male",
+                "Female",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Gender"
           },
           {
             "name": "Value",
