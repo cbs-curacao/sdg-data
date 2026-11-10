@@ -3,6 +3,58 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "4-3-1/data.csv",
+      "name": "4-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-17",
+                "18-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
+    },
+    {
       "path": "3-2-2/data.csv",
       "name": "3-2-2",
       "profile": "tabular-data-resource",
@@ -5416,30 +5468,6 @@
         ]
       },
       "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
-    },
-    {
-      "path": "4-3-1/data.csv",
-      "name": "4-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
     },
     {
       "path": "5-a-2/data.csv",
