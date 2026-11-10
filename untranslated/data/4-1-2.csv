@@ -1,1 +1,36 @@
-Year,Value
+Year,Category,Age,Gender,Value
+2023,Primary education,,,95.3
+2025,Primary education,,,93.3
+2023,Lower secondary education,,,70.5
+2025,Lower secondary education,,,64.4
+2023,Upper secondary education,,,50.2
+2025,Upper secondary education,,,53.7
+2025,Primary education,14.0,,81.6
+2023,Primary education,15.0,,95.1
+2025,Primary education,15.0,,97.2
+2023,Primary education,16.0,,95.5
+2025,Primary education,16.0,,100.0
+2023,Lower secondary education,17.0,,54.2
+2025,Lower secondary education,17.0,,40.6
+2023,Lower secondary education,18.0,,74.3
+2025,Lower secondary education,18.0,,66.2
+2023,Lower secondary education,19.0,,85.1
+2025,Lower secondary education,19.0,,90.9
+2023,Upper secondary education,21.0,,43.8
+2025,Upper secondary education,21.0,,47.6
+2023,Upper secondary education,22.0,,51.8
+2025,Upper secondary education,22.0,,47.9
+2023,Upper secondary education,23.0,,54.6
+2025,Upper secondary education,23.0,,66.5
+2023,Primary education,,Female,95.5
+2025,Primary education,,Female,93.4
+2023,Primary education,,Male,95.0
+2025,Primary education,,Male,93.3
+2023,Lower secondary education,,Female,71.8
+2025,Lower secondary education,,Female,62.0
+2023,Lower secondary education,,Male,69.4
+2025,Lower secondary education,,Male,66.9
+2023,Upper secondary education,,Female,58.2
+2025,Upper secondary education,,Female,57.4
+2023,Upper secondary education,,Male,42.4
+2025,Upper secondary education,,Male,50.4
