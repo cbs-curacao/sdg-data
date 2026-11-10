@@ -1,0 +1,8 @@
+indicator_name: Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex
+indicator_number: 4.3.1
+computation_units: Percentage
+source_active_1: true
+source_organisation_1: Central Bureau of Statistics (CBS) Curaçao
+source_url_1: "https://www.cbs.cw/"
+reporting_status: complete
+graph_type: bar
