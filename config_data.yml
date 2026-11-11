@@ -82,6 +82,27 @@ translations:
 # -----------------------------
 # This allows the build to generate stats for reporting status by additional
 # fields, beyond the default "status by goal" report.
+# Columns that are not breakdowns (disaggregations). These are the sdg-build
+# defaults, plus COMMENT_OBS so that per-value notes don't become a breakdown.
+indicator_options:
+  non_disaggregation_columns:
+    - Year
+    - Units
+    - Series
+    - Value
+    - GeoCode
+    - Observation status
+    - Unit multiplier
+    - Unit measure
+    - UNIT_MEASURE
+    - SERIES
+    - COMMENT_TS
+    - DATA_LAST_UPDATE
+    - COMMENT_OBS
+  observation_attributes:
+    - COMMENT_OBS
+  series_column: Series
+  unit_column: Units
 reporting_status_extra_fields: []
 
 # Map layers
