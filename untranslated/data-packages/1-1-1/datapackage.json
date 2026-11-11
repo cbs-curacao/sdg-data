@@ -15,19 +15,28 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "male",
+                "female",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
