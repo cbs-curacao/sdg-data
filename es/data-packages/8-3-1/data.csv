@@ -1,1 +1,24 @@
-Year,Value
+Year,Gender,Sector,Value
+2025,,,38.5
+2025,Male,,20.1
+2025,Female,,18.4
+2025,,Accommodation and food service activities,4.6
+2025,,Activities of extraterritorial organisations and bodies,0.5
+2025,,Activities of households as employers,0.0
+2025,,Administrative and support service activities,4.8
+2025,,"Agriculture, forestry and fishing",0.3
+2025,,"Arts, entertainment and recreation",1.4
+2025,,Construction,6.1
+2025,,Education,0.5
+2025,,"Electricity, gas, steam and air conditioning supply",0.1
+2025,,Financial and insurance activities,1.3
+2025,,Human health and social work activities,2.3
+2025,,Information and communication,0.6
+2025,,Manufacturing,2.8
+2025,,Other service activities,1.9
+2025,,Other/Not reported/Unknown,0.2
+2025,,"Professional, scientific and technical activities",1.7
+2025,,Real estate activities,1.2
+2025,,Transportation and storage,1.2
+2025,,"Water supply, sewerage, waste management and remediation activities",0.2
+2025,,"Wholesale and retail trade, repair of motor vehicles and motorcycles",6.6

@@ -95,6 +95,68 @@
       "title": "Tuberculosis incidence per 100,000 population"
     },
     {
+      "path": "8-3-1/data.csv",
+      "name": "8-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Accommodation and food service activities",
+                "Activities of extraterritorial organisations and bodies",
+                "Activities of households as employers",
+                "Administrative and support service activities",
+                "Agriculture, forestry and fishing",
+                "Arts, entertainment and recreation",
+                "Construction",
+                "Education",
+                "Electricity, gas, steam and air conditioning supply",
+                "Financial and insurance activities",
+                "Human health and social work activities",
+                "Information and communication",
+                "Manufacturing",
+                "Other service activities",
+                "Other/Not reported/Unknown",
+                "Professional, scientific and technical activities",
+                "Real estate activities",
+                "Transportation and storage",
+                "Water supply, sewerage, waste management and remediation activities",
+                "Wholesale and retail trade, repair of motor vehicles and motorcycles",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of informal employment in total employment, by sector and sex"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -4011,28 +4073,6 @@
         ]
       },
       "title": "Manufacturing employment as a proportion of total employment"
-    },
-    {
-      "path": "8-3-1/data.csv",
-      "name": "8-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of informal employment in total employment, by sector and sex"
     },
     {
       "path": "1-5-4/data.csv",
