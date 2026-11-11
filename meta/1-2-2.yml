@@ -1,0 +1,14 @@
+indicator_name: Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions
+indicator_number: 1.2.2
+computation_units: Percentage
+source_active_1: true
+source_organisation_1: Central Bureau of Statistics (CBS) Curaçao
+source_url_1: "https://www.cbs.cw/poverty"
+reporting_status: complete
+graph_type: bar
+publications:
+  - title: Multidimensional Poverty in Curaçao - A Comparative MPI Assessment for 2011, 2017 and 2023
+    link: "https://www.cbs.cw/multidimensional-poverty-in-curacao-a-comparative-mpi-assessment-for-2011-2017-and-2023"
+    description: >
+      This report presents the results of the Multidimensional Poverty Index (MPI) for Curaçao.
+      The MPI measures the prevalence and intensity of household deprivations through non-monetary domains and is utilized worldwide to complement traditional monetary poverty measures. 
