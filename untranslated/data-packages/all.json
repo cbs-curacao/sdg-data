@@ -91,6 +91,10 @@
             }
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
