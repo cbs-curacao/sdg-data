@@ -5,8 +5,13 @@ source_active_1: true
 source_organisation_1: Central Bureau of Statistics (CBS) Curaçao
 source_url_1: "https://www.cbs.cw/"
 reporting_status: complete
-graph_type: bar
+graph_annotations:
+  - preset: series_break
+    value: '2025'
+    label:
+      content: 'Netto income'
 
 # Short note below the chart
 data_footnote: >
-  2025* is Netto Income.
+  Figures for 2011–2023 are gross hourly earnings; 2025 is net (netto) hourly earnings,
+  so 2025 is not directly comparable with earlier years.
