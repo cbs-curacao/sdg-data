@@ -1,0 +1,18 @@
+indicator_name: Proportion and number of children aged 15–17 years engaged in child labour, by sex and age
+indicator_number: 8.7.1
+computation_units: Percentage
+source_active_1: true
+source_organisation_1: Central Bureau of Statistics (CBS) Curaçao
+source_url_1: "https://www.cbs.cw/"
+reporting_status: complete
+graph_type: bar
+
+# Brief context that displays above the chart on the indicator page.
+page_content: >
+  This indicator measures the proportion of children aged 15-17 and older engaged in child labour.
+  There is no data available for ages 5-14, as survey questions related to labour are for ages 15 and older.
+  The original indicator is defined for ages 5-17. 
+
+# Short note below the chart, linking to the methodology PDF.
+data_footnote: >
+  Age group of 15-17 instead of 5-17.
