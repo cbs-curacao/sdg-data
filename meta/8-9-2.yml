@@ -1,0 +1,8 @@
+indicator_name: Employed persons in the tourism industries
+indicator_number: 8.9.2
+computation_units: Number of persons
+source_active_1: true
+source_organisation_1: Central Bureau of Statistics (CBS) Curaçao
+source_url_1: "https://www.cbs.cw/"
+reporting_status: complete
+graph_type: bar
