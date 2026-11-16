@@ -1,0 +1,19 @@
+indicator_name: Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18
+indicator_number: 5.3.1
+computation_units: Percentage
+source_active_1: true
+source_organisation_1: Central Bureau of Statistics (CBS) Curaçao
+source_url_1: "https://www.cbs.cw/"
+reporting_status: complete
+
+# Every value is 0, so no chart or table is shown; the result is stated as text instead.
+data_non_statistical: true
+
+# Displayed on the indicator page in place of the chart and table.
+page_content: >
+  In Curaçao, **0%** of women aged 20–24 were married before age 15 or before
+  age 18, in every year from **2011 to 2025**.
+
+
+  There are no marriages before the age of 15 (which is illegal) or before the
+  age of 18 within the dataset. For this reason no chart or table is shown.
