@@ -1,1 +1,13 @@
-Year,Value
+Year,Value,Units,Series
+2020,0.0,"Per 100,000 population","Detected victims of human trafficking per 100,000 population"
+2021,0.65,"Per 100,000 population","Detected victims of human trafficking per 100,000 population"
+2022,1.304,"Per 100,000 population","Detected victims of human trafficking per 100,000 population"
+2023,1.293,"Per 100,000 population","Detected victims of human trafficking per 100,000 population"
+2024,1.282,"Per 100,000 population","Detected victims of human trafficking per 100,000 population"
+2025,8.277,"Per 100,000 population","Detected victims of human trafficking per 100,000 population"
+2020,0.0,Number,Detected victims of human trafficking
+2021,1.0,Number,Detected victims of human trafficking
+2022,2.0,Number,Detected victims of human trafficking
+2023,2.0,Number,Detected victims of human trafficking
+2024,2.0,Number,Detected victims of human trafficking
+2025,13.0,Number,Detected victims of human trafficking

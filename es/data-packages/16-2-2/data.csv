@@ -1,1 +1,51 @@
-Year,Value
+Year,Series,Units,Sex,Age,Form of exploitation,Nationality,Value
+2020,"Detected victims of human trafficking per 100,000 population","Per 100,000 population",,,,,0.0
+2021,"Detected victims of human trafficking per 100,000 population","Per 100,000 population",,,,,0.65
+2022,"Detected victims of human trafficking per 100,000 population","Per 100,000 population",,,,,1.304
+2023,"Detected victims of human trafficking per 100,000 population","Per 100,000 population",,,,,1.293
+2024,"Detected victims of human trafficking per 100,000 population","Per 100,000 population",,,,,1.282
+2025,"Detected victims of human trafficking per 100,000 population","Per 100,000 population",,,,,8.277
+2020,Detected victims of human trafficking,Number,,,,,0.0
+2021,Detected victims of human trafficking,Number,,,,,1.0
+2022,Detected victims of human trafficking,Number,,,,,2.0
+2023,Detected victims of human trafficking,Number,,,,,2.0
+2024,Detected victims of human trafficking,Number,,,,,2.0
+2025,Detected victims of human trafficking,Number,,,,,13.0
+2020,Detected victims of human trafficking,Number,Female,,,,0.0
+2020,Detected victims of human trafficking,Number,Male,,,,0.0
+2021,Detected victims of human trafficking,Number,Female,,,,1.0
+2021,Detected victims of human trafficking,Number,Male,,,,0.0
+2022,Detected victims of human trafficking,Number,Female,,,,2.0
+2022,Detected victims of human trafficking,Number,Male,,,,0.0
+2023,Detected victims of human trafficking,Number,Female,,,,2.0
+2023,Detected victims of human trafficking,Number,Male,,,,0.0
+2024,Detected victims of human trafficking,Number,Female,,,,2.0
+2024,Detected victims of human trafficking,Number,Male,,,,0.0
+2025,Detected victims of human trafficking,Number,Female,,,,13.0
+2025,Detected victims of human trafficking,Number,Male,,,,0.0
+2021,Detected victims of human trafficking,Number,,18 to 65 years,,,1.0
+2022,Detected victims of human trafficking,Number,,18 to 65 years,,,2.0
+2025,Detected victims of human trafficking,Number,,18 to 65 years,,,13.0
+2021,Detected victims of human trafficking,Number,,,Labour exploitation,,1.0
+2021,Detected victims of human trafficking,Number,,,Sexual exploitation,,0.0
+2021,Detected victims of human trafficking,Number,,,Both labour and sexual exploitation,,0.0
+2022,Detected victims of human trafficking,Number,,,Labour exploitation,,0.0
+2022,Detected victims of human trafficking,Number,,,Sexual exploitation,,0.0
+2022,Detected victims of human trafficking,Number,,,Both labour and sexual exploitation,,2.0
+2023,Detected victims of human trafficking,Number,,,Labour exploitation,,0.0
+2023,Detected victims of human trafficking,Number,,,Sexual exploitation,,0.0
+2023,Detected victims of human trafficking,Number,,,Both labour and sexual exploitation,,2.0
+2024,Detected victims of human trafficking,Number,,,Labour exploitation,,0.0
+2024,Detected victims of human trafficking,Number,,,Sexual exploitation,,0.0
+2024,Detected victims of human trafficking,Number,,,Both labour and sexual exploitation,,2.0
+2025,Detected victims of human trafficking,Number,,,Labour exploitation,,7.0
+2025,Detected victims of human trafficking,Number,,,Sexual exploitation,,0.0
+2025,Detected victims of human trafficking,Number,,,Both labour and sexual exploitation,,6.0
+2021,Detected victims of human trafficking,Number,,,,Colombian,1.0
+2022,Detected victims of human trafficking,Number,,,,Colombian,1.0
+2022,Detected victims of human trafficking,Number,,,,Venezuelan,1.0
+2023,Detected victims of human trafficking,Number,,,,Venezuelan,2.0
+2024,Detected victims of human trafficking,Number,,,,Venezuelan,2.0
+2025,Detected victims of human trafficking,Number,,,,Brazilian,1.0
+2025,Detected victims of human trafficking,Number,,,,Colombian,11.0
+2025,Detected victims of human trafficking,Number,,,,Venezuelan,1.0

@@ -12,8 +12,81 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Detected victims of human trafficking per 100,000 population",
+                "Detected victims of human trafficking",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 100,000 population",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 to 65 years",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Form of exploitation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Labour exploitation",
+                "Sexual exploitation",
+                "Both labour and sexual exploitation",
+                ""
+              ]
+            },
+            "title": "Form of exploitation"
+          },
+          {
+            "name": "Nationality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Colombian",
+                "Venezuelan",
+                "Brazilian",
+                ""
+              ]
+            },
+            "title": "Nationality"
           },
           {
             "name": "Value",
