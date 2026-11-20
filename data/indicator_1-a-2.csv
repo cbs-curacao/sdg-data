@@ -1,67 +1,57 @@
 Year,Service,Value
-2011,,30.2
-2012,,29.9
-2013,,27.4
+2011,,30.4
+2012,,29.0
+2013,,27.3
 2014,,30.2
-2015,,29.9
+2015,,29.8
 2016,,29.3
-2017,,28.9
-2018,,27.4
-2011,Education,13.8
-2012,Education,12.9
+2017,,29.0
+2018,,29.6
+2019,,27.9
+2020,,24.9
+2021,,25.5
+2022,,27.6
+2023,,26.7
+2024,,26.4
+2011,Education,13.9
+2012,Education,12.5
 2013,Education,14.2
 2014,Education,12.7
 2015,Education,12.6
 2016,Education,12.5
-2017,Education,12.1
-2018,Education,12.8
-2011,Health,7.5
-2012,Health,6.9
+2017,Education,12.2
+2018,Education,13.9
+2019,Education,13.2
+2020,Education,11.9
+2021,Education,9.2
+2022,Education,13.3
+2023,Education,13.0
+2024,Education,13.0
+2011,Health,7.6
+2012,Health,6.7
 2013,Health,1.7
 2014,Health,6.6
 2015,Health,7.2
 2016,Health,6.7
-2017,Health,7.1
-2018,Health,6.4
-2011,Social Protection, 8.9
-2012,Social Protection,10.1
+2017,Health,7.2
+2018,Health,6.9
+2019,Health,6.0
+2020,Health,4.8
+2021,Health,8.6
+2022,Health,6.9
+2023,Health,6.0
+2024,Health,5.7
+2011,Social Protection,9.0
+2012,Social Protection,9.7
 2013,Social Protection,11.4
 2014,Social Protection,10.9
 2015,Social Protection,10.0
-2016,Social Protection,10.1
-2017,Social Protection, 9.6
-2018,Social Protection, 8.2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+2016,Social Protection,10.0
+2017,Social Protection,9.7
+2018,Social Protection,8.8
+2019,Social Protection,8.6
+2020,Social Protection,8.2
+2021,Social Protection,7.7
+2022,Social Protection,7.4
+2023,Social Protection,7.6
+2024,Social Protection,7.8
