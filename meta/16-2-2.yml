@@ -1,0 +1,39 @@
+indicator_number: 16.2.2
+indicator_name: Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation
+reporting_status: complete
+data_non_statistical: false
+national_indicator_available: Detected victims of human trafficking, Curaçao
+graph_type: bar
+graph_title: Detected victims of human trafficking, Curaçao
+data_show_map: false
+computation_units: Number of detected victims; victims per 100,000 population
+data_footnote: >-
+  Figures are small and year-to-year changes largely reflect detection and
+  investigative capacity, which increased after PATH was established in March 2024.
+  All registered victims in 2020 to 2025 were women. Age is not available for 2023
+  and 2024; PATH has registered no victims under 18 in this period. Form of
+  exploitation for 2021 to 2024 is derived from the type of case registered in each
+  year, as each year had a single case type.
+source_active_1: true
+source_organisation_1: PATH Curaçao (Prevenshon di Abusu i Trafikashon di Hende), Ministry of Justice
+source_title_1: >-
+  Baseline Assessment on the Situation of Human Trafficking and Smuggling in
+  Curaçao 2020-2025 (October 2026), and periodic figures published by PATH
+source_url_1: https://www.path.cw
+source_url_text_1: PATH Curaçao
+source_periodicity_1: Annual
+source_geographical_coverage_1: Curaçao
+source_release_date_1: October 2026
+source_statistical_classification_1: Administrative data (law enforcement and judicial records compiled by PATH)
+source_contact_1: PATH Curaçao, Ministry of Justice
+source_active_2: true
+source_organisation_2: Central Bureau of Statistics Curaçao (CBS)
+source_title_2: Population of Curaçao on 1 January (denominator for the rate)
+source_geographical_coverage_2: Curaçao
+un_custodian_agency: United Nations Office on Drugs and Crime (UNODC)
+goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-02.pdf
+goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF)
+national_data_updated_date: 2026-11-16
+publications:
+  - title: Baseline Assessment on the Situation of Human Trafficking and Smuggling in Curaçao (October 2026)
+    link: https://path.cw/wp-content/uploads/2026/10/Baseline-Assessment-on-the-Situation-of-Human-Trafficking-and-Smuggling-in-Curacao-2020-2025.pdf
